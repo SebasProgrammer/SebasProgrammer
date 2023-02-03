@@ -13,13 +13,21 @@ Soy Sebastián, estudio Ciencias de la Computación en la UPC
 ##SKILLS
 
 :star: HTML
+
 :star: CSS
+
 :star: Javascript
+
 :star: Angular
+
 :star: Bootstrap
+
 :star: Java
+
 :star: Python
+
 :star: Git
+
 :star: C++
 
 
