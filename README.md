@@ -12,23 +12,23 @@ Soy Sebastián, estudio Ciencias de la Computación en la UPC
 
 ##SKILLS
 
-:star: HTML
+:diamond_shape_with_a_dot_inside: HTML
 
-:star: CSS
+:diamond_shape_with_a_dot_inside: CSS
 
-:star: Javascript
+:diamond_shape_with_a_dot_inside: Javascript
 
-:star: Angular
+:diamond_shape_with_a_dot_inside: Angular
 
-:star: Bootstrap
+:diamond_shape_with_a_dot_inside: Bootstrap
 
-:star: Java
+:diamond_shape_with_a_dot_inside: Java
 
-:star: Python
+:diamond_shape_with_a_dot_inside: Python
 
-:star: Git
+:diamond_shape_with_a_dot_inside: Git
 
-:star: C++
+:diamond_shape_with_a_dot_inside: C++
 
 
 
