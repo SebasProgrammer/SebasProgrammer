@@ -1,4 +1,4 @@
-## Buenas desarrolladores :wave:
+## Hola desarrolladores :wave:
 
 Soy Sebastián, estudio Ciencias de la Computación en la UPC
 
