@@ -1,6 +1,6 @@
 ## Hola desarrollador :wave:
 
-Soy Sebastián, estudio Ciencias de la Computación en la UPC
+> Soy Sebastián, estudio Ciencias de la Computación en la UPC
 
 * Actualmente me encuentro estudiando un Bootcamp en Academlo llamado "Desarrollo Web Full Stack".
 
