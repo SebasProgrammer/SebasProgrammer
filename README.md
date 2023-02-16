@@ -2,13 +2,13 @@
 
 Soy Sebastián, estudio Ciencias de la Computación en la UPC
 
-:star: Actualmente me encuentro estudiando un Bootcamp en Academlo llamado "Desarrollo Web Full Stack".
+* Actualmente me encuentro estudiando un Bootcamp en Academlo llamado "Desarrollo Web Full Stack".
 
-:star: Me gusta jugar ajedrez.
+* Me gusta jugar ajedrez.
 
-:star: Gimnasio
+* Gimnasio
 
-:star: Resolver problemas con algoritmos y estructura de datos.
+* Resolver problemas con algoritmos y estructura de datos.
 
 ##SKILLS
 
